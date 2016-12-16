@@ -14,7 +14,7 @@ rest http client
 - restclient
     - rest http client 
 - restclient-spring
-    - rest http client using spring
+    - rest http client using spring 
     
 ## Quick Start 
 
