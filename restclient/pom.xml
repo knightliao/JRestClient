@@ -4,11 +4,11 @@
     <parent>
         <groupId>com.github.knightliao.canalx.rest</groupId>
         <artifactId>restclient-base</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <artifactId>restclient</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <modelVersion>4.0.0</modelVersion>
 
     <dependencies>
@@ -54,7 +54,7 @@
             <groupId>com.github.knightliao.test</groupId>
             <artifactId>jutf</artifactId>
             <scope>test</scope>
-            <version>1.0.3-SNAPSHOT</version>
+            <version>1.0.3</version>
         </dependency>
 
         <dependency>

@@ -85,7 +85,7 @@ doc: http://restclient.readthedocs.io/en/latest/
     <dependency>
         <groupId>com.github.knightliao.canalx.rest</groupId>
         <artifactId>restclient</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </dependency>
     
 ### jutf-Spring
@@ -93,7 +93,7 @@ doc: http://restclient.readthedocs.io/en/latest/
     <dependency>
         <groupId>com.github.knightliao.canalx.rest</groupId>
         <artifactId>restclient-spring</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </dependency>
     
 ## 推荐
